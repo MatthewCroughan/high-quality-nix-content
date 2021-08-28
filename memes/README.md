@@ -9,3 +9,8 @@
 <img height="700" src="pinnacle-of-system-configuration.png"/>
 <img height="700" src="random-repos.png"/>
 <img height="700" src="virgin-arch-vs-chad-nixos.png"/>
+
+
+
+https://user-images.githubusercontent.com/26458780/131232088-ae184a45-cfba-4691-b592-e54e564216fb.mp4
+
